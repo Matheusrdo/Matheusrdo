@@ -10,6 +10,7 @@
 )](https://wa.me/message/RLQPE4MQQSV6D1)
 
 ![Matheusrdo GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheusrdo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusrdo&layout=compact)
 
 ## Tecnologias que uso no meu dia
 
